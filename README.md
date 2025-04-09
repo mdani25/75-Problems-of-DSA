@@ -127,11 +127,3 @@ This repository contains a curated list of 75 DSA problems categorized by topic.
 
 ---
 
-## ✅ Usage
-- Use the checkboxes to track your progress.
-- Try solving each problem on platforms like LeetCode, GeeksforGeeks, or HackerRank.
-- After solving, revisit problems for better understanding and optimization.
-
----
-
-Happy coding! 🚀
