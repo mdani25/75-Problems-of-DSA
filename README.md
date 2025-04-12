@@ -10,7 +10,7 @@ This repository contains a curated list of 75 DSA problems categorized by topic.
 - [✅] Merge Strings Alternately  
 - [✅] Greatest Common Divisor of Strings  
 - [✅] Kids With the Greatest Number of Candies  
-- [ ] Can Place Flowers  
+- [✅] Can Place Flowers  
 - [ ] Reverse Vowels of a String  
 - [ ] Reverse Words in a String  
 - [ ] Product of Array Except Self  
