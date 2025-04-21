@@ -18,7 +18,7 @@ This repository contains a curated list of 75 DSA problems categorized by topic.
 - [✅] String Compression  
 
 ### Two Pointers
-- [ ] Move Zeroes  
+- [✅] Move Zeroes  
 - [ ] Is Subsequence  
 - [ ] Container With Most Water  
 - [ ] Max Number of K-Sum Pairs  
